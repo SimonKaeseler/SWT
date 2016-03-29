@@ -1,1 +1,9 @@
 C:\Users\Simon\Google Drive\Skole\4 Semester IKT\I4SWT\VectorCalc\VectorCalc\VectorCalc\bin\Debug\VectorCalc.exe.config
+C:\GIT\SWT\VectorCalc\VectorCalc\VectorCalc\bin\Debug\VectorCalc.exe.config
+C:\GIT\SWT\VectorCalc\VectorCalc\VectorCalc\obj\Debug\VectorCalc.csprojResolveAssemblyReference.cache
+C:\GIT\SWT\VectorCalc\VectorCalc\VectorCalc\bin\Debug\VectorCalc.exe
+C:\GIT\SWT\VectorCalc\VectorCalc\VectorCalc\bin\Debug\VectorCalc.pdb
+C:\GIT\SWT\VectorCalc\VectorCalc\VectorCalc\bin\Debug\nunit.framework.dll
+C:\GIT\SWT\VectorCalc\VectorCalc\VectorCalc\bin\Debug\nunit.framework.xml
+C:\GIT\SWT\VectorCalc\VectorCalc\VectorCalc\obj\Debug\VectorCalc.exe
+C:\GIT\SWT\VectorCalc\VectorCalc\VectorCalc\obj\Debug\VectorCalc.pdb
